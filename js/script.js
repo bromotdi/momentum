@@ -1,6 +1,7 @@
 import playList from './playList.js';
 import i18next from './i18next.js';
 
+
 const time = document.querySelector('.time');
 const date = document.querySelector('.date');
 const greeting = document.querySelector('.greeting');
